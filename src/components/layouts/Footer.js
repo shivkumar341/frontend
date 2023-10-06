@@ -17,9 +17,9 @@ function Footer() {
               target="_blank"
               rel="noreferrer"
             >
-              Omega Solution
+              {/* Omega Solution */}
             </a>{" "}
-            One stop solution.
+            {/* One stop solution. */}
           </p>
         </Col>
         <Col xs={24} md={24} lg={12}>
